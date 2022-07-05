@@ -1,25 +1,28 @@
 body{
     font-family: 'Poppins', sans-serif;
-    font-size: larger;
+}
+h1{
+    font-size: 50px;
 }
 .top-banner{
     text-align: center;
-    background-image: url(images/donation4.jpg);
+    background-image: url(images/donation13.jpg);
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .banner-text{
-    color: white;
-    height: 100px;
+    color:white;
+    padding-top: 50px;
     
 }
+
 .top-btn{
     text-decoration: none;
     color: white;
     width: 15px 45px;
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(orange,tomato);
     padding: 10px;
-    border-radius: 10px;
+    border-radius: 5px;
 }
