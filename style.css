@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: larger;
+}
+.top-banner{
+    text-align: center;
+    background-image: url(images/donation4.jpg);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner-text{
+    color: white;
+    height: 100px;
+    
+}
+.top-btn{
+    text-decoration: none;
+    color: white;
+    width: 15px 45px;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px;
+    border-radius: 10px;
+}
