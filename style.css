@@ -25,7 +25,7 @@ body {
     text-decoration: none;
     color: white;
     width: 15px 45px;
-    background-image: linear-gradient(orange, tomato);
+    background-color: tomato;
     padding: 10px;
     border-radius: 5px;
 }
@@ -104,4 +104,53 @@ body {
 
 #medicine-bc {
     background-color: rgba(255, 166, 0, 0.288);
+}
+.half-width{
+    display: flex;
+    text-align: center;
+    padding:100px;
+    margin-left: 100px;
+}
+.fix-width{
+    width: 40%;
+    padding-left: 0px;
+    margin: 10px;
+    border-radius: 5px;
+}
+.fix-width img{
+    width: 100%; 
+}
+#shadaw-for{
+    box-shadow: 10px 10px 40px gray;
+}
+.bottom-area{
+    text-align: center;
+    padding-top: 60px;
+}
+form{
+    text-align: center;
+    border-radius: 5px;
+    height: 150px;
+    width: 600px;
+    background-color: rgba(255, 166, 0, 0.212);
+}
+.form-reposition{
+    padding-left: 25%;
+}
+input{
+    width: 40%;
+    padding: 15px;
+    border-radius: 10px;
+}
+footer{
+    height: 150px;
+    text-align: center;
+    font-weight: 600;
+    color: white;
+    background-color: black;
+    margin-top: 20px;
+}
+footer h1{
+    color: tomato;
+    padding-top: 30px;
 }
