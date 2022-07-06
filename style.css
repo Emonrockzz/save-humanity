@@ -46,7 +46,6 @@ body {
     list-style: none;
     padding: 40px;
     margin: 10px;
-    border: 2px solid rgb(235, 199, 199);
     background-color: rgba(255, 255, 255, 0.514);
 
 }
@@ -64,6 +63,7 @@ body {
     color: tomato;
     border: 2px sloid rgb(243, 82, 53);
     background-color: rgba(255, 99, 71, 0.342);
+    border-color: tomato;
 }
 
 .middle-one {
@@ -76,26 +76,32 @@ body {
     font-weight: 700;
     color: rgba(128, 128, 128, 0.507);
 }
-.container-icon{
+
+.container-icon {
     display: flex;
     padding-left: 9%;
     padding-right: 2%;
 }
-#medicine{
+
+#medicine {
     width: 20%;
 }
-.help-plan{
+
+.help-plan {
     width: 25%;
     padding: 20px;
     margin: 10px;
     border-radius: 5px;
 }
-#food-bc{
+
+#food-bc {
     background-color: rgba(0, 0, 255, 0.212);
 }
-#shelter-bc{
+
+#shelter-bc {
     background-color: rgba(255, 99, 71, 0.342);
 }
-#medicine-bc{
+
+#medicine-bc {
     background-color: rgba(255, 166, 0, 0.288);
 }
