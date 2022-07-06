@@ -26,3 +26,42 @@ body{
     padding: 10px;
     border-radius: 5px;
 }
+.donate-for{
+    text-align: center;
+    padding: 20px 40px;
+    margin: 40px;
+}
+.midium-header{
+    font-size: 40px;
+    font-weight: 700;
+}
+.money-amount li{
+    float: left;
+    list-style: none;
+    padding: 40px;
+    margin: 10px;
+    border: 2px solid rgb(235, 199, 199);
+    background-color: rgba(255, 255, 255, 0.514);
+    
+}
+.money-amount{
+    text-align: center;
+}
+.money-amount ul{
+    display: inline-block;
+    text-align: center;
+}
+#most-donate{
+    color: tomato;
+    border:2px sloid rgb(243, 82, 53);
+    background-color: rgba(255, 99, 71, 0.342);
+}
+.middle-one{
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.middle-one h4{
+    font-weight: 700;
+    color: rgba(128, 128, 128, 0.507);
+}
